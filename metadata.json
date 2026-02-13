@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bibliothèque du Burkina",
+  "description": "Plateforme numérique nationale centralisée du Burkina Faso offrant un accès équitable au savoir, avec un modèle hybride gratuit/premium.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
